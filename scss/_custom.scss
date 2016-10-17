@@ -1,0 +1,25 @@
+
+
+body {
+	background: #222;
+	color: #eee;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+header, main, footer
+{
+	width: 100vw;
+}
+
+header
+{
+	background-color: red;
+}
+
+header {
+
+	.header-nav {
+		height: 24px;
+		padding: 12px;
+	}
+}
