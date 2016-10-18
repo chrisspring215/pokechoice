@@ -551,6 +551,30 @@ header .header-nav {
   padding: 12px;
 }
 
+/* line 27, ../scss/_custom.scss */
+main {
+  margin: 12px;
+}
+
+/* line 30, ../scss/_custom.scss */
+select, option {
+  color: #333;
+}
+
+/* line 34, ../scss/_custom.scss */
+select {
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+  border: none;
+}
+
+/* line 40, ../scss/_custom.scss */
+button {
+  color: #333;
+  border: none;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
